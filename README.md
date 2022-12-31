@@ -1,6 +1,6 @@
 ### Hi, I'm Ciro 👋
 
-### I´m software developer and I am currently learning 💻👨🏻‍
+### I´m software developer and I´m currently learning 💻👨🏻‍
 
 ## My teck stack
 
