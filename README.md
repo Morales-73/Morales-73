@@ -1,21 +1,23 @@
-### Hi, I'm Ciro 👋
+# Hi, I'm Ciro 👋
 
-### I´m currently learning 💻👨🏻‍
+I´m currently learning 💻
 
-## My teck stack
+## Technologies
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="60" width="60"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" height="60" width="60">
-  <img align="center" height="70" width="70" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-  <img align="center" height=70 width="70" src="https://img.icons8.com/color/2x/nodejs.png">
-  <img align="center" height="100" width="100" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
-</div>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-1877F2?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Html](https://img.shields.io/badge/Html-orange?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![Css](https://img.shields.io/badge/Css-14a1f0?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 
-## 📫 How to reach me
+[![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Flask](https://img.shields.io/badge/Flask-999999?style=for-the-badge&logo=flask&logoColor=white&labelColor=101010)]()
+[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-D14836?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
-<a href="https://www.linkedin.com/in/moralesciro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![Tailwindcss](https://img.shields.io/badge/Tailwindcss-4285F4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+
+## Contact me
+
+[![LinkedIn](https://img.shields.io/badge/Linkedin-232F3E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ciro.morales591@gmail.com)
