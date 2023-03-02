@@ -19,5 +19,7 @@ I´m currently learning 💻
 
 ## Contact me
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-232F3E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]()
+[![LinkedIn](https://img.shields.io/badge/Linkedin-232F3E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](
+https://www.linkedin.com/in/moralesciro/
+)
 [![Email](https://img.shields.io/badge/Email-E4405F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ciro.morales591@gmail.com)
