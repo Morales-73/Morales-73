@@ -1,4 +1,4 @@
-### I´m currently learning 💻
+## I´m currently learning 💻
 
 ## Technologies
 
@@ -14,6 +14,7 @@
 [![Git](https://img.shields.io/badge/Git-D14836?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 [![Tailwindcss](https://img.shields.io/badge/Tailwindcss-4285F4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
+[![Mongo](https://img.shields.io/badge/MongoDB-D14836?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 
 ## Contact me
 
